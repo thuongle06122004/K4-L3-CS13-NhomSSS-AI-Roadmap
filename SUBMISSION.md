@@ -29,10 +29,10 @@ Slide có 5 ý, mỗi ô trong trang 5 không quá 60 chữ. Tài liệu không 
 
 ## Kiểm tra trước khi gửi
 
-- [ ] Excel đúng đề theo số nhóm, mở được và là bản mới nhất.
-- [ ] Trang 6 đã soát: bản trong lớp thường 7/8, bản cuối cần 8/8.
-- [ ] Có `team/TEAM.md` ghi đủ thành viên và đóng góp.
-- [ ] Coach/người chấm mở được repo và tải được bài.
-- [ ] Mỗi thành viên đã nộp cùng link repo trên VLearn.
+- [X] Excel đúng đề theo số nhóm, mở được và là bản mới nhất.
+- [X] Trang 6 đã soát: bản trong lớp thường 7/8, bản cuối cần 8/8.
+- [X] Có `team/TEAM.md` ghi đủ thành viên và đóng góp.
+- [X] Coach/người chấm mở được repo và tải được bài.
+- [X] Mỗi thành viên đã nộp cùng link repo trên VLearn.
 
 Các mẫu trong `report/team/` có thể dùng để ghi chép thêm; không cần chép lại Excel thành báo cáo dài. Thang 100 điểm và hai hạn nộp giữ theo đề bài.
